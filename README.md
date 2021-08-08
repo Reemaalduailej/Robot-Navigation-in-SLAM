@@ -1,4 +1,4 @@
-# Robot Navigation in SLAM using Gmapping
+# Robot Navigation in SLAM
 
 --- 
 
