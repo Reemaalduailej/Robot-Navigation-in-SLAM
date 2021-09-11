@@ -1,4 +1,4 @@
-# Robot Navigation using LDSs
+# Robot Navigation using LDS
 
 --- 
 
