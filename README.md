@@ -1,4 +1,4 @@
-# Robot Navigation in SLAM
+# Robot Navigation using LDS
 
 --- 
 
